@@ -41,9 +41,11 @@ Example:
     "sourceData": "https://raw.githubusercontent.com/yuliu-digitaltwin/lunar-actors-monorepo/main/actors/data-cleaner/example_data.csv"
   }
   ```
-  
+
   Expected: Should return business data.
-  Actual: Got error "TypeError: ..."
+  
+  Actual: Got error "TypeError: ..." 
+  
   Log: ... (copy relevant lines)
 
 Feature requests
