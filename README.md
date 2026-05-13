@@ -27,6 +27,7 @@ When reporting a bug, please include as much of the following information as pos
 Example:
 
   Session ID: abc123
+  
   Input: 
   ```json
   {
@@ -40,6 +41,7 @@ Example:
     "sourceData": "https://raw.githubusercontent.com/yuliu-digitaltwin/lunar-actors-monorepo/main/actors/data-cleaner/example_data.csv"
   }
   ```
+  
   Expected: Should return business data.
   Actual: Got error "TypeError: ..."
   Log: ... (copy relevant lines)
