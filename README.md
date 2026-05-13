@@ -38,7 +38,7 @@ Example:
     "maxChargeUsd": 5,
     "outputFormat": "csv",
     "previewMode": false,
-    "sourceData": "https://raw.githubusercontent.com/yuliu-digitaltwin/lunar-actors-monorepo/main/actors/data-cleaner/example_data.csv"
+    "sourceData": ""
   }
   ```
 
