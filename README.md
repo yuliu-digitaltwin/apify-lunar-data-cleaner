@@ -7,7 +7,7 @@ Before creating an issue
 
 Please check the following resources first:
 
-- Actor README: https://apify.com/liuyu.digitaltwin/google-maps-lead-optimizer-data-clean (usage, input parameters, output fields)
+- Actor README: https://apify.com/liuyu.digitaltwin/lunar-data-cleaner (usage, input parameters, output fields)
 - Changelog: ./CHANGELOG.md (version history and updates)
 - Existing issues: https://github.com/yuliu-digitaltwin/apify-lunar-data-cleaner/issues (your problem might already be reported)
 
